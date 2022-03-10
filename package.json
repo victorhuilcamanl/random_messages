@@ -1,0 +1,16 @@
+{
+    "name": "random_mesagges",
+    "version": "1.0.0",
+    "description": "Vamos a crear un paquete para NPM",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Iván García <ivangm180@gmail.com>",
+    "license": "MIT",
+    "bin": {
+      "random-msg": "./bin/global.js"
+    },
+    "preferGlobal": true
+  
+  }
